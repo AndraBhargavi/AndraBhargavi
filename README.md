@@ -19,7 +19,7 @@
 
 📫 How to reach me:
 - 📧 Email: andrabhargavi12@gmail.com
-- 💼 LinkedIn: https://leetcode.com/u/Andra_Bhargavi__/
+- 💼 LinkedIn: https://www.linkedin.com/in/bhargaviandra/
 - 💻 GitHub: https://github.com/AndraBhargavi
 
 
